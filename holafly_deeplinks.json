@@ -77,7 +77,7 @@
     },
     {
         "country": "British Virgin Island",
-        "link": "https://esim.holafly.com/esim-british-virgin-islands/"
+        "link": "https://esim.holafly.com/esim-british-virgin-island/"
     },
     {
         "country": "Brunei",
@@ -105,7 +105,7 @@
     },
     {
         "country": "Cayman Island",
-        "link": "https://esim.holafly.com/esim-cayman-islands/"
+        "link": "https://esim.holafly.com/esim-british-cayman-island/"
     },
     {
         "country": "Central African Republic",
@@ -116,8 +116,8 @@
         "link": "https://esim.holafly.com/esim-chile/"
     },
     {
-        "country": "China - 1 day unlimited data",
-        "link": "https://esim.holafly.com/esim-china-1-day/"
+        "country": "China",
+        "link": "https://esim.holafly.com/esim-china/"
     },
     {
         "country": "Colombia",
@@ -132,8 +132,8 @@
         "link": "https://esim.holafly.com/esim-croatia/"
     },
     {
-        "country": "Cura\u00e7ao",
-        "link": "https://esim.holafly.com/esim-cura\u00e7ao/"
+        "country": "Curacao",
+        "link": "https://esim.holafly.com/esim-curacao/"
     },
     {
         "country": "Cyprus",
@@ -180,8 +180,8 @@
         "link": "https://esim.holafly.com/esim-eswatini/"
     },
     {
-        "country": "Europe - 1 day and unlimited data with calls",
-        "link": "https://esim.holafly.com/esim-europe-1-day/"
+        "country": "Europe",
+        "link": "https://esim.holafly.com/esim-europe/"
     },
     {
         "country": "Georgia",
@@ -293,7 +293,7 @@
     },
     {
         "country": "Kenya",
-        "link": "https://esim.holafly.com/esim-kenia/"
+        "link": "https://esim.holafly.com/esim-kenya/"
     },
     {
         "country": "Kuwait",
@@ -309,7 +309,7 @@
     },
     {
         "country": "Las Vegas",
-        "link": "https://esim.holafly.com/esim-united-states-las-vegas/"
+        "link": "https://esim.holafly.com/esim-las-vegas-city/"
     },
     {
         "country": "Latin America",
@@ -333,7 +333,7 @@
     },
     {
         "country": "Los Angeles",
-        "link": "https://esim.holafly.com/esim-united-states-los-angeles/"
+        "link": "https://esim.holafly.com/esim-los-angeles-city/"
     },
     {
         "country": "Luxembourg",
@@ -384,10 +384,6 @@
         "link": "https://esim.holafly.com/esim-mexico/"
     },
     {
-        "country": "Miami",
-        "link": "https://esim.holafly.com/esim-united-states-miami/"
-    },
-    {
         "country": "Moldova",
         "link": "https://esim.holafly.com/esim-moldova/"
     },
@@ -417,7 +413,7 @@
     },
     {
         "country": "New York",
-        "link": "https://esim.holafly.com/esim-united-states-new-york/"
+        "link": "https://esim.holafly.com/esim-new-york-city/"
     },
     {
         "country": "New Zealand",
@@ -433,7 +429,7 @@
     },
     {
         "country": "North America",
-        "link": "https://esim.holafly.com/esim-northamerica/"
+        "link": "https://esim.holafly.com/esim-north-america/"
     },
     {
         "country": "Norway",
@@ -569,7 +565,7 @@
     },
     {
         "country": "St. Vincent and the Grenadines",
-        "link": "https://esim.holafly.com/esim-saint-vincent-and-the-grenadines/"
+        "link": "https://esim.holafly.com/esim-saint-vicent-and-the-granadines/"
     },
     {
         "country": "Sudan",
@@ -580,8 +576,8 @@
         "link": "https://esim.holafly.com/esim-sweden/"
     },
     {
-        "country": "Switzerland - 1 day unlimited data",
-        "link": "https://esim.holafly.com/esim-switzerland-1-day/"
+        "country": "Switzerland",
+        "link": "https://esim.holafly.com/esim-switzerland"
     },
     {
         "country": "Republic of Congo",
@@ -605,7 +601,7 @@
     },
     {
         "country": "San Francisco",
-        "link": "https://esim.holafly.com/esim-united-states-san-francisco/"
+        "link": "https://esim.holafly.com/esim-san-francisco-city/"
     },
     {
         "country": "Saudi Arabia",
@@ -680,8 +676,8 @@
         "link": "https://esim.holafly.com/esim-sweden/"
     },
     {
-        "country": "Switzerland - 1 day unlimited data",
-        "link": "https://esim.holafly.com/esim-switzerland-1-day/"
+        "country": "Switzerland",
+        "link": "https://esim.holafly.com/esim-switzerland/"
     },
     {
         "country": "Taiwan",
@@ -709,15 +705,15 @@
     },
     {
         "country": "Trinidad and Tobago",
-        "link": "https://esim.holafly.com/esim-trinidad-y-tobago/"
+        "link": "https://esim.holafly.com/esim-trinidad-and-tobago/"
     },
     {
         "country": "Tunisia",
         "link": "https://esim.holafly.com/esim-tunisia/"
     },
     {
-        "country": "Turkey - 1 day unlimited data",
-        "link": "https://esim.holafly.com/esim-turkey-1-day/"
+        "country": "Turkey",
+        "link": "https://esim.holafly.com/esim-turkey/"
     },
     {
         "country": "Turks and Caicos",
@@ -736,8 +732,8 @@
         "link": "https://esim.holafly.com/esim-united-arab-emirates/"
     },
     {
-        "country": "United Kingdom - 1 day unlimited data",
-        "link": "https://esim.holafly.com/esim-united-kingdom-1-day/"
+        "country": "United Kingdom",
+        "link": "https://esim.holafly.com/esim-united-kingdom/"
     },
     {
         "country": "Uruguay",
@@ -745,7 +741,7 @@
     },
     {
         "country": "USA",
-        "link": "https://esim.holafly.com/esim-united-states/"
+        "link": "https://esim.holafly.com/esim-usa/"
     },
     {
         "country": "Uzbekistan",
