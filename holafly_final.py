@@ -45,6 +45,7 @@ for entry in links_data:
                     # Extract price and remove the currency symbol if present
                     price_info = product_variation.find('bdi').text.strip() if product_variation.find('bdi') else 'Not found'
                     price_info = price_info.replace('\u20ac', '').strip()  # Remove the Euro symbol
+                    price_info = price_info.replace(',', '.')  # Replace comma with period in price
 
                     currency_symbol = soup.find('div', class_='currency_symbol').text.strip() if soup.find('div',
                                                                                                            class_='currency_symbol') else 'Not specified'
@@ -56,7 +57,7 @@ for entry in links_data:
                     if package_key not in seen_packages:
                         seen_packages.add(package_key)
                         package_data = {
-                            'data_volume': data_volume,
+                            'data': data_volume,
                             'duration': duration,
                             'price': price_info,  # Cleaned price without the currency symbol
                             'currency': currency_symbol  # Include the currency information
