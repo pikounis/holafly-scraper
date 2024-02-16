@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import json
 
 # Load the JSON data from the file
-file_path = 'countries_links.json'  # Update this path
+file_path = 'testing.json'  # Update this path
 with open(file_path, 'r') as file:
     links_data = json.load(file)
 

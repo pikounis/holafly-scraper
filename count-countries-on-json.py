@@ -2,7 +2,7 @@
 import json
 
 # Path to the JSON file (replace this with the actual path where your file is stored)
-file_path = 'countries_links.json'
+file_path = 'holafly_deeplinks.json'
 
 # Load the JSON data from the file
 with open(file_path, 'r') as file:
