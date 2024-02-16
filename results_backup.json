@@ -1,483 +1,5 @@
 [
     {
-        "country": "USA",
-        "url": "https://esim.holafly.com/esim-usa/",
-        "packages": [
-            {
-                "data_volume": "Unlimited data",
-                "duration": "5 Days",
-                "price": "27,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "7 Days",
-                "price": "37,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "10 Days",
-                "price": "44,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "15 Days",
-                "price": "54,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "20 Days",
-                "price": "67,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "30 Days",
-                "price": "77,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "60 Days",
-                "price": "99,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "90 Days",
-                "price": "110,00",
-                "currency": "EUR"
-            }
-        ]
-    },
-    {
-        "country": "Canada",
-        "url": "https://esim.holafly.com/esim-canada/",
-        "packages": [
-            {
-                "data_volume": "Unlimited data",
-                "duration": "5 Days",
-                "price": "37,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "7 Days",
-                "price": "44,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "10 Days",
-                "price": "47,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "15 Days",
-                "price": "57,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "20 Days",
-                "price": "67,00",
-                "currency": "EUR"
-            }
-        ]
-    },
-    {
-        "country": "Turkey",
-        "url": "https://esim.holafly.com/esim-turkey/",
-        "packages": []
-    },
-    {
-        "country": "Spain",
-        "url": "https://esim.holafly.com/esim-spain/",
-        "packages": [
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "5 Days",
-                "price": "29,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "7 Days",
-                "price": "37,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "10 Days",
-                "price": "44,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "15 Days",
-                "price": "57,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "20 Days",
-                "price": "67,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "30 Days",
-                "price": "79,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "60 Days",
-                "price": "97,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "90 Days",
-                "price": "109,00",
-                "currency": "EUR"
-            }
-        ]
-    },
-    {
-        "country": "France",
-        "url": "https://esim.holafly.com/esim-france/",
-        "packages": [
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "5 Days",
-                "price": "29,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "7 Days",
-                "price": "37,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "10 Days",
-                "price": "44,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "15 Days",
-                "price": "57,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "20 Days",
-                "price": "67,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "30 Days",
-                "price": "79,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "60 Days",
-                "price": "97,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "90 Days",
-                "price": "109,00",
-                "currency": "EUR"
-            }
-        ]
-    },
-    {
-        "country": "Mexico",
-        "url": "https://esim.holafly.com/esim-mexico/",
-        "packages": [
-            {
-                "data_volume": "Unlimited data",
-                "duration": "5 Days",
-                "price": "27,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "7 Days",
-                "price": "37,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "10 Days",
-                "price": "44,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "15 Days",
-                "price": "54,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "20 Days",
-                "price": "67,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "30 Days",
-                "price": "77,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "60 Days",
-                "price": "99,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "90 Days",
-                "price": "110,00",
-                "currency": "EUR"
-            }
-        ]
-    },
-    {
-        "country": "Europe",
-        "url": "https://esim.holafly.com/esim-europe/",
-        "packages": [
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "5 Days",
-                "price": "29,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "7 Days",
-                "price": "37,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "10 Days",
-                "price": "44,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "15 Days",
-                "price": "57,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "20 Days",
-                "price": "67,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "30 Days",
-                "price": "79,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "60 Days",
-                "price": "97,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "90 Days",
-                "price": "109,00",
-                "currency": "EUR"
-            }
-        ]
-    },
-    {
-        "country": "Asia",
-        "url": "https://esim.holafly.com/esim-asia/",
-        "packages": [
-            {
-                "data_volume": "Unlimited data",
-                "duration": "5 Days",
-                "price": "37,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "7 Days",
-                "price": "44,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "10 Days",
-                "price": "47,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "15 Days",
-                "price": "57,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "20 Days",
-                "price": "67,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "30 Days",
-                "price": "89,00",
-                "currency": "EUR"
-            }
-        ]
-    },
-    {
-        "country": "North America",
-        "url": "https://esim.holafly.com/esim-north-america/",
-        "packages": [
-            {
-                "data_volume": "Unlimited data",
-                "duration": "5 Days",
-                "price": "39,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "7 Days",
-                "price": "47,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "10 Days",
-                "price": "57,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "15 Days",
-                "price": "68,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "20 Days",
-                "price": "79,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "30 Days",
-                "price": "97,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "60 Days",
-                "price": "157,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "90 Days",
-                "price": "227,00",
-                "currency": "EUR"
-            }
-        ]
-    },
-    {
-        "country": "Latin America",
-        "url": "https://esim.holafly.com/esim-latin-america/",
-        "packages": [
-            {
-                "data_volume": "Unlimited data",
-                "duration": "5 Days",
-                "price": "39,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "7 Days",
-                "price": "47,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "10 Days",
-                "price": "57,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "15 Days",
-                "price": "68,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "20 Days",
-                "price": "79,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "30 Days",
-                "price": "97,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "60 Days",
-                "price": "157,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "90 Days",
-                "price": "227,00",
-                "currency": "EUR"
-            }
-        ]
-    },
-    {
-        "country": "United Kingdom",
-        "url": "https://esim.holafly.com/esim-united-kingdom/",
-        "packages": []
-    },
-    {
-        "country": "Caribbean",
-        "url": "https://esim.holafly.com/esim-caribbean/",
-        "packages": [
-            {
-                "data_volume": "7 GB",
-                "duration": "15 Days",
-                "price": "69,00",
-                "currency": "EUR"
-            }
-        ]
-    },
-    {
         "country": "Albania",
         "url": "https://esim.holafly.com/esim-albania/",
         "packages": [
@@ -616,6 +138,30 @@
         ]
     },
     {
+        "country": "Antigua and Barbuda",
+        "url": "https://esim.holafly.com/esim-antigua-and-barbuda/",
+        "packages": [
+            {
+                "data_volume": "3 GB",
+                "duration": "7 Days",
+                "price": "44,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "7 GB",
+                "duration": "15 Days",
+                "price": "57,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "15 GB",
+                "duration": "30 Days",
+                "price": "69,00",
+                "currency": "EUR"
+            }
+        ]
+    },
+    {
         "country": "Argentina",
         "url": "https://esim.holafly.com/esim-argentina/",
         "packages": [
@@ -719,6 +265,48 @@
                 "data_volume": "15 GB",
                 "duration": "30 Days",
                 "price": "69,00",
+                "currency": "EUR"
+            }
+        ]
+    },
+    {
+        "country": "Asia",
+        "url": "https://esim.holafly.com/esim-asia/",
+        "packages": [
+            {
+                "data_volume": "Unlimited data",
+                "duration": "5 Days",
+                "price": "37,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "7 Days",
+                "price": "44,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "10 Days",
+                "price": "47,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "15 Days",
+                "price": "57,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "20 Days",
+                "price": "67,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "30 Days",
+                "price": "89,00",
                 "currency": "EUR"
             }
         ]
@@ -850,48 +438,6 @@
         ]
     },
     {
-        "country": "Bahrain",
-        "url": "https://esim.holafly.com/esim-bahrain/",
-        "packages": [
-            {
-                "data_volume": "2.5 GB",
-                "duration": "5 Days",
-                "price": "39,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "3.5 GB",
-                "duration": "7 Days",
-                "price": "47,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "5 GB",
-                "duration": "10 Days",
-                "price": "54,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "7.5 GB",
-                "duration": "15 Days",
-                "price": "57,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "10 GB",
-                "duration": "20 Days",
-                "price": "69,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "15 GB",
-                "duration": "30 Days",
-                "price": "89,00",
-                "currency": "EUR"
-            }
-        ]
-    },
-    {
         "country": "Bangladesh",
         "url": "https://esim.holafly.com/esim-bangladesh/",
         "packages": [
@@ -958,18 +504,6 @@
         ]
     },
     {
-        "country": "Belarus",
-        "url": "https://esim.holafly.com/esim-belarus/",
-        "packages": [
-            {
-                "data_volume": "6 GB",
-                "duration": "15 Days",
-                "price": "57,00",
-                "currency": "EUR"
-            }
-        ]
-    },
-    {
         "country": "Belgium",
         "url": "https://esim.holafly.com/esim-belgium/",
         "packages": [
@@ -1019,6 +553,72 @@
                 "data_volume": "Unlimited data with calls",
                 "duration": "90 Days",
                 "price": "109,00",
+                "currency": "EUR"
+            }
+        ]
+    },
+    {
+        "country": "Bermuda",
+        "url": "https://esim.holafly.com/esim-bermuda/",
+        "packages": [
+            {
+                "data_volume": "3 GB",
+                "duration": "7 Days",
+                "price": "44,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "7 GB",
+                "duration": "15 Days",
+                "price": "57,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "15 GB",
+                "duration": "30 Days",
+                "price": "69,00",
+                "currency": "EUR"
+            }
+        ]
+    },
+    {
+        "country": "Bolivia",
+        "url": "https://esim.holafly.com/esim-bolivia/",
+        "packages": [
+            {
+                "data_volume": "Unlimited data",
+                "duration": "5 Days",
+                "price": "39,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "7 Days",
+                "price": "47,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "10 Days",
+                "price": "54,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "15 Days",
+                "price": "57,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "20 Days",
+                "price": "69,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "30 Days",
+                "price": "89,00",
                 "currency": "EUR"
             }
         ]
@@ -1136,6 +736,11 @@
                 "currency": "EUR"
             }
         ]
+    },
+    {
+        "country": "British Virgin Island",
+        "url": "https://esim.holafly.com/esim-british-virgin-islands/",
+        "packages": []
     },
     {
         "country": "Brunei",
@@ -1312,6 +917,59 @@
         ]
     },
     {
+        "country": "Canada",
+        "url": "https://esim.holafly.com/esim-canada/",
+        "packages": [
+            {
+                "data_volume": "Unlimited data",
+                "duration": "5 Days",
+                "price": "37,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "7 Days",
+                "price": "44,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "10 Days",
+                "price": "47,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "15 Days",
+                "price": "57,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "20 Days",
+                "price": "67,00",
+                "currency": "EUR"
+            }
+        ]
+    },
+    {
+        "country": "Caribbean",
+        "url": "https://esim.holafly.com/esim-caribbean/",
+        "packages": [
+            {
+                "data_volume": "7 GB",
+                "duration": "15 Days",
+                "price": "69,00",
+                "currency": "EUR"
+            }
+        ]
+    },
+    {
+        "country": "Cayman Island",
+        "url": "https://esim.holafly.com/esim-cayman-islands/",
+        "packages": []
+    },
+    {
         "country": "Central African Republic",
         "url": "https://esim.holafly.com/esim-central-african-republic/",
         "packages": [
@@ -1331,48 +989,6 @@
                 "data_volume": "15 GB",
                 "duration": "30 Days",
                 "price": "69,00",
-                "currency": "EUR"
-            }
-        ]
-    },
-    {
-        "country": "Chad",
-        "url": "https://esim.holafly.com/esim-chad/",
-        "packages": [
-            {
-                "data_volume": "Unlimited data",
-                "duration": "5 Days",
-                "price": "39,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "7 Days",
-                "price": "47,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "10 Days",
-                "price": "54,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "15 Days",
-                "price": "57,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "20 Days",
-                "price": "69,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "30 Days",
-                "price": "89,00",
                 "currency": "EUR"
             }
         ]
@@ -1414,8 +1030,8 @@
         ]
     },
     {
-        "country": "China",
-        "url": "https://esim.holafly.com/esim-china/",
+        "country": "China - 1 day unlimited data",
+        "url": "https://esim.holafly.com/esim-china-1-day/",
         "packages": []
     },
     {
@@ -1493,6 +1109,119 @@
     {
         "country": "Croatia",
         "url": "https://esim.holafly.com/esim-croatia/",
+        "packages": [
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "5 Days",
+                "price": "29,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "7 Days",
+                "price": "37,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "10 Days",
+                "price": "44,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "15 Days",
+                "price": "57,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "20 Days",
+                "price": "67,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "30 Days",
+                "price": "79,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "60 Days",
+                "price": "97,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "90 Days",
+                "price": "109,00",
+                "currency": "EUR"
+            }
+        ]
+    },
+    {
+        "country": "Cura\u00e7ao",
+        "url": "https://esim.holafly.com/esim-cura\u00e7ao/",
+        "packages": []
+    },
+    {
+        "country": "Cyprus",
+        "url": "https://esim.holafly.com/esim-cyprus/",
+        "packages": [
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "5 Days",
+                "price": "29,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "7 Days",
+                "price": "37,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "10 Days",
+                "price": "44,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "15 Days",
+                "price": "57,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "20 Days",
+                "price": "67,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "30 Days",
+                "price": "79,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "60 Days",
+                "price": "97,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "90 Days",
+                "price": "109,00",
+                "currency": "EUR"
+            }
+        ]
+    },
+    {
+        "country": "Czech Republic",
+        "url": "https://esim.holafly.com/esim-czech-republic/",
         "packages": [
             {
                 "data_volume": "Unlimited data with calls",
@@ -1629,6 +1358,30 @@
         ]
     },
     {
+        "country": "Dominica",
+        "url": "https://esim.holafly.com/esim-dominica/",
+        "packages": [
+            {
+                "data_volume": "3 GB",
+                "duration": "7 Days",
+                "price": "44,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "7 GB",
+                "duration": "15 Days",
+                "price": "57,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "15 GB",
+                "duration": "30 Days",
+                "price": "69,00",
+                "currency": "EUR"
+            }
+        ]
+    },
+    {
         "country": "Dominican Republic",
         "url": "https://esim.holafly.com/esim-dominican-republic/",
         "packages": [
@@ -1701,60 +1454,6 @@
         ]
     },
     {
-        "country": "Cyprus",
-        "url": "https://esim.holafly.com/esim-cyprus/",
-        "packages": [
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "5 Days",
-                "price": "29,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "7 Days",
-                "price": "37,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "10 Days",
-                "price": "44,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "15 Days",
-                "price": "57,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "20 Days",
-                "price": "67,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "30 Days",
-                "price": "79,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "60 Days",
-                "price": "97,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "90 Days",
-                "price": "109,00",
-                "currency": "EUR"
-            }
-        ]
-    },
-    {
         "country": "Egypt",
         "url": "https://esim.holafly.com/esim-egypt/",
         "packages": [
@@ -1791,55 +1490,43 @@
         ]
     },
     {
-        "country": "Czech Republic",
-        "url": "https://esim.holafly.com/esim-czech-republic/",
+        "country": "El Salvador",
+        "url": "https://esim.holafly.com/esim-el-salvador/",
         "packages": [
             {
-                "data_volume": "Unlimited data with calls",
+                "data_volume": "Unlimited data",
                 "duration": "5 Days",
-                "price": "29,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "7 Days",
                 "price": "37,00",
                 "currency": "EUR"
             },
             {
-                "data_volume": "Unlimited data with calls",
-                "duration": "10 Days",
+                "data_volume": "Unlimited data",
+                "duration": "7 Days",
                 "price": "44,00",
                 "currency": "EUR"
             },
             {
-                "data_volume": "Unlimited data with calls",
+                "data_volume": "Unlimited data",
+                "duration": "10 Days",
+                "price": "47,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
                 "duration": "15 Days",
                 "price": "57,00",
                 "currency": "EUR"
             },
             {
-                "data_volume": "Unlimited data with calls",
+                "data_volume": "Unlimited data",
                 "duration": "20 Days",
                 "price": "67,00",
                 "currency": "EUR"
             },
             {
-                "data_volume": "Unlimited data with calls",
+                "data_volume": "Unlimited data",
                 "duration": "30 Days",
-                "price": "79,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "60 Days",
-                "price": "97,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "90 Days",
-                "price": "109,00",
+                "price": "89,00",
                 "currency": "EUR"
             }
         ]
@@ -1899,58 +1586,51 @@
         ]
     },
     {
-        "country": "Fiji",
-        "url": "https://esim.holafly.com/esim-fiji/",
+        "country": "Eswatini",
+        "url": "https://esim.holafly.com/esim-eswatini/",
         "packages": [
             {
-                "data_volume": "6 GB",
-                "duration": "15 Days",
-                "price": "57,00",
-                "currency": "EUR"
-            }
-        ]
-    },
-    {
-        "country": "El Salvador",
-        "url": "https://esim.holafly.com/esim-el-salvador/",
-        "packages": [
-            {
-                "data_volume": "Unlimited data",
+                "data_volume": "2.5 GB",
                 "duration": "5 Days",
-                "price": "37,00",
+                "price": "39,00",
                 "currency": "EUR"
             },
             {
-                "data_volume": "Unlimited data",
+                "data_volume": "3.5 GB",
                 "duration": "7 Days",
-                "price": "44,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "10 Days",
                 "price": "47,00",
                 "currency": "EUR"
             },
             {
-                "data_volume": "Unlimited data",
+                "data_volume": "5 GB",
+                "duration": "10 Days",
+                "price": "54,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "7.5 GB",
                 "duration": "15 Days",
                 "price": "57,00",
                 "currency": "EUR"
             },
             {
-                "data_volume": "Unlimited data",
+                "data_volume": "10 GB",
                 "duration": "20 Days",
-                "price": "67,00",
+                "price": "69,00",
                 "currency": "EUR"
             },
             {
-                "data_volume": "Unlimited data",
+                "data_volume": "15 GB",
                 "duration": "30 Days",
                 "price": "89,00",
                 "currency": "EUR"
             }
         ]
+    },
+    {
+        "country": "Europe - 1 day and unlimited data with calls",
+        "url": "https://esim.holafly.com/esim-europe-1-day/",
+        "packages": []
     },
     {
         "country": "Georgia",
@@ -2043,18 +1723,6 @@
         ]
     },
     {
-        "country": "Faroe Islands",
-        "url": "https://esim.holafly.com/esim-faroe-islands/",
-        "packages": [
-            {
-                "data_volume": "6 GB",
-                "duration": "15 Days",
-                "price": "57,00",
-                "currency": "EUR"
-            }
-        ]
-    },
-    {
         "country": "Ghana",
         "url": "https://esim.holafly.com/esim-ghana/",
         "packages": [
@@ -2134,60 +1802,6 @@
                 "data_volume": "Unlimited data",
                 "duration": "30 Days",
                 "price": "79,00",
-                "currency": "EUR"
-            }
-        ]
-    },
-    {
-        "country": "Finland",
-        "url": "https://esim.holafly.com/esim-finland/",
-        "packages": [
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "5 Days",
-                "price": "29,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "7 Days",
-                "price": "37,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "10 Days",
-                "price": "44,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "15 Days",
-                "price": "57,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "20 Days",
-                "price": "67,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "30 Days",
-                "price": "79,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "60 Days",
-                "price": "97,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "90 Days",
-                "price": "109,00",
                 "currency": "EUR"
             }
         ]
@@ -2362,6 +1976,42 @@
                 "data_volume": "Unlimited data",
                 "duration": "30 Days",
                 "price": "89,00",
+                "currency": "EUR"
+            }
+        ]
+    },
+    {
+        "country": "Guernsey",
+        "url": "https://esim.holafly.com/esim-guernsey/",
+        "packages": [
+            {
+                "data_volume": "Unlimited data",
+                "duration": "5 Days",
+                "price": "29,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "7 Days",
+                "price": "37,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "10 Days",
+                "price": "44,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "15 Days",
+                "price": "57,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "20 Days",
+                "price": "67,00",
                 "currency": "EUR"
             }
         ]
@@ -2793,9 +2443,58 @@
         ]
     },
     {
-        "country": "Isle of Man",
-        "url": "https://esim.holafly.com/esim-isle-of-man/",
-        "packages": []
+        "country": "Israel",
+        "url": "https://esim.holafly.com/esim-israel/",
+        "packages": [
+            {
+                "data_volume": "Unlimited data",
+                "duration": "5 Days",
+                "price": "29,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "7 Days",
+                "price": "37,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "10 Days",
+                "price": "44,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "15 Days",
+                "price": "57,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "20 Days",
+                "price": "67,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "30 Days",
+                "price": "79,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "60 Days",
+                "price": "97,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "90 Days",
+                "price": "109,00",
+                "currency": "EUR"
+            }
+        ]
     },
     {
         "country": "Italy",
@@ -2847,6 +2546,48 @@
                 "data_volume": "Unlimited data with calls",
                 "duration": "90 Days",
                 "price": "109,00",
+                "currency": "EUR"
+            }
+        ]
+    },
+    {
+        "country": "Ivory Coast",
+        "url": "https://esim.holafly.com/esim-ivory-coast/",
+        "packages": [
+            {
+                "data_volume": "2.5 GB",
+                "duration": "5 Days",
+                "price": "39,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "3.5 GB",
+                "duration": "7 Days",
+                "price": "47,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "5 GB",
+                "duration": "10 Days",
+                "price": "54,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "7.5 GB",
+                "duration": "15 Days",
+                "price": "57,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "10 GB",
+                "duration": "20 Days",
+                "price": "69,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "15 GB",
+                "duration": "30 Days",
+                "price": "89,00",
                 "currency": "EUR"
             }
         ]
@@ -2966,102 +2707,6 @@
         ]
     },
     {
-        "country": "Israel",
-        "url": "https://esim.holafly.com/esim-israel/",
-        "packages": [
-            {
-                "data_volume": "Unlimited data",
-                "duration": "5 Days",
-                "price": "29,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "7 Days",
-                "price": "37,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "10 Days",
-                "price": "44,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "15 Days",
-                "price": "57,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "20 Days",
-                "price": "67,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "30 Days",
-                "price": "79,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "60 Days",
-                "price": "97,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "90 Days",
-                "price": "109,00",
-                "currency": "EUR"
-            }
-        ]
-    },
-    {
-        "country": "Ivory Coast",
-        "url": "https://esim.holafly.com/esim-ivory-coast/",
-        "packages": [
-            {
-                "data_volume": "2.5 GB",
-                "duration": "5 Days",
-                "price": "39,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "3.5 GB",
-                "duration": "7 Days",
-                "price": "47,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "5 GB",
-                "duration": "10 Days",
-                "price": "54,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "7.5 GB",
-                "duration": "15 Days",
-                "price": "57,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "10 GB",
-                "duration": "20 Days",
-                "price": "69,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "15 GB",
-                "duration": "30 Days",
-                "price": "89,00",
-                "currency": "EUR"
-            }
-        ]
-    },
-    {
         "country": "Jordan",
         "url": "https://esim.holafly.com/esim-jordan/",
         "packages": [
@@ -3096,6 +2741,47 @@
                 "currency": "EUR"
             }
         ]
+    },
+    {
+        "country": "Kazakhstan",
+        "url": "https://esim.holafly.com/esim-kazakhstan/",
+        "packages": [
+            {
+                "data_volume": "Unlimited data",
+                "duration": "5 Days",
+                "price": "29,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "7 Days",
+                "price": "37,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "10 Days",
+                "price": "44,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "15 Days",
+                "price": "57,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "20 Days",
+                "price": "67,00",
+                "currency": "EUR"
+            }
+        ]
+    },
+    {
+        "country": "Kenya",
+        "url": "https://esim.holafly.com/esim-kenia/",
+        "packages": []
     },
     {
         "country": "Kuwait",
@@ -3182,84 +2868,6 @@
         ]
     },
     {
-        "country": "Kazakhstan",
-        "url": "https://esim.holafly.com/esim-kazakhstan/",
-        "packages": [
-            {
-                "data_volume": "Unlimited data",
-                "duration": "5 Days",
-                "price": "29,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "7 Days",
-                "price": "37,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "10 Days",
-                "price": "44,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "15 Days",
-                "price": "57,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "20 Days",
-                "price": "67,00",
-                "currency": "EUR"
-            }
-        ]
-    },
-    {
-        "country": "Kenya",
-        "url": "https://esim.holafly.com/esim-kenya/",
-        "packages": [
-            {
-                "data_volume": "Unlimited data",
-                "duration": "5 Days",
-                "price": "37,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "7 Days",
-                "price": "44,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "10 Days",
-                "price": "47,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "15 Days",
-                "price": "57,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "20 Days",
-                "price": "67,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "30 Days",
-                "price": "89,00",
-                "currency": "EUR"
-            }
-        ]
-    },
-    {
         "country": "Laos",
         "url": "https://esim.holafly.com/esim-laos/",
         "packages": [
@@ -3297,6 +2905,65 @@
                 "data_volume": "15 GB",
                 "duration": "30 Days",
                 "price": "89,00",
+                "currency": "EUR"
+            }
+        ]
+    },
+    {
+        "country": "Las Vegas",
+        "url": "https://esim.holafly.com/esim-united-states-las-vegas/",
+        "packages": []
+    },
+    {
+        "country": "Latin America",
+        "url": "https://esim.holafly.com/esim-south-america/",
+        "packages": [
+            {
+                "data_volume": "Unlimited data",
+                "duration": "5 Days",
+                "price": "39,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "7 Days",
+                "price": "47,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "10 Days",
+                "price": "57,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "15 Days",
+                "price": "68,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "20 Days",
+                "price": "79,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "30 Days",
+                "price": "97,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "60 Days",
+                "price": "157,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "90 Days",
+                "price": "227,00",
                 "currency": "EUR"
             }
         ]
@@ -3351,6 +3018,30 @@
                 "data_volume": "Unlimited data with calls",
                 "duration": "90 Days",
                 "price": "109,00",
+                "currency": "EUR"
+            }
+        ]
+    },
+    {
+        "country": "Liberia",
+        "url": "https://esim.holafly.com/esim-liberia/",
+        "packages": [
+            {
+                "data_volume": "2,5 GB",
+                "duration": "5 Days",
+                "price": "39,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "3,5 GB",
+                "duration": "7 Days",
+                "price": "44,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "5 GB",
+                "duration": "10 Days",
+                "price": "49,00",
                 "currency": "EUR"
             }
         ]
@@ -3464,46 +3155,9 @@
         ]
     },
     {
-        "country": "Malawi",
-        "url": "https://esim.holafly.com/esim-malawi/",
-        "packages": [
-            {
-                "data_volume": "2.5 GB",
-                "duration": "5 Days",
-                "price": "39,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "3.5 GB",
-                "duration": "7 Days",
-                "price": "47,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "5 GB",
-                "duration": "10 Days",
-                "price": "54,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "7.5 GB",
-                "duration": "15 Days",
-                "price": "57,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "10 GB",
-                "duration": "20 Days",
-                "price": "69,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "15 GB",
-                "duration": "30 Days",
-                "price": "89,00",
-                "currency": "EUR"
-            }
-        ]
+        "country": "Los Angeles",
+        "url": "https://esim.holafly.com/esim-united-states-los-angeles/",
+        "packages": []
     },
     {
         "country": "Luxembourg",
@@ -3614,60 +3268,6 @@
         ]
     },
     {
-        "country": "Malta",
-        "url": "https://esim.holafly.com/esim-malta/",
-        "packages": [
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "5 Days",
-                "price": "29,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "7 Days",
-                "price": "37,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "10 Days",
-                "price": "44,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "15 Days",
-                "price": "57,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "20 Days",
-                "price": "67,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "30 Days",
-                "price": "79,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "60 Days",
-                "price": "97,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "90 Days",
-                "price": "109,00",
-                "currency": "EUR"
-            }
-        ]
-    },
-    {
         "country": "Madagascar",
         "url": "https://esim.holafly.com/esim-madagascar/",
         "packages": [
@@ -3703,6 +3303,48 @@
             },
             {
                 "data_volume": "Unlimited data",
+                "duration": "30 Days",
+                "price": "89,00",
+                "currency": "EUR"
+            }
+        ]
+    },
+    {
+        "country": "Malawi",
+        "url": "https://esim.holafly.com/esim-malawi/",
+        "packages": [
+            {
+                "data_volume": "2.5 GB",
+                "duration": "5 Days",
+                "price": "39,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "3.5 GB",
+                "duration": "7 Days",
+                "price": "47,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "5 GB",
+                "duration": "10 Days",
+                "price": "54,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "7.5 GB",
+                "duration": "15 Days",
+                "price": "57,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "10 GB",
+                "duration": "20 Days",
+                "price": "69,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "15 GB",
                 "duration": "30 Days",
                 "price": "89,00",
                 "currency": "EUR"
@@ -3764,6 +3406,96 @@
         ]
     },
     {
+        "country": "Maldives",
+        "url": "https://esim.holafly.com/esim-maldives/",
+        "packages": [
+            {
+                "data_volume": "6 GB",
+                "duration": "15 Days",
+                "price": "57,00",
+                "currency": "EUR"
+            }
+        ]
+    },
+    {
+        "country": "Mali",
+        "url": "https://esim.holafly.com/esim-mali/",
+        "packages": [
+            {
+                "data_volume": "2.5 GB",
+                "duration": "5 Days",
+                "price": "37,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "3.5 GB",
+                "duration": "7 Days",
+                "price": "44,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "5 GB",
+                "duration": "10 Days",
+                "price": "49,00",
+                "currency": "EUR"
+            }
+        ]
+    },
+    {
+        "country": "Malta",
+        "url": "https://esim.holafly.com/esim-malta/",
+        "packages": [
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "5 Days",
+                "price": "29,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "7 Days",
+                "price": "37,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "10 Days",
+                "price": "44,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "15 Days",
+                "price": "57,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "20 Days",
+                "price": "67,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "30 Days",
+                "price": "79,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "60 Days",
+                "price": "97,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "90 Days",
+                "price": "109,00",
+                "currency": "EUR"
+            }
+        ]
+    },
+    {
         "country": "Martinique",
         "url": "https://esim.holafly.com/esim-martinique/",
         "packages": [
@@ -3813,6 +3545,30 @@
                 "data_volume": "Unlimited data",
                 "duration": "90 Days",
                 "price": "139,00",
+                "currency": "EUR"
+            }
+        ]
+    },
+    {
+        "country": "Mauritius",
+        "url": "https://esim.holafly.com/esim-mauritius/",
+        "packages": [
+            {
+                "data_volume": "3 GB",
+                "duration": "7 Days",
+                "price": "44,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "7 GB",
+                "duration": "15 Days",
+                "price": "57,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "15 GB",
+                "duration": "30 Days",
+                "price": "69,00",
                 "currency": "EUR"
             }
         ]
@@ -3872,6 +3628,65 @@
         ]
     },
     {
+        "country": "Mexico",
+        "url": "https://esim.holafly.com/esim-mexico/",
+        "packages": [
+            {
+                "data_volume": "Unlimited data",
+                "duration": "5 Days",
+                "price": "27,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "7 Days",
+                "price": "37,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "10 Days",
+                "price": "44,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "15 Days",
+                "price": "54,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "20 Days",
+                "price": "67,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "30 Days",
+                "price": "77,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "60 Days",
+                "price": "99,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "90 Days",
+                "price": "110,00",
+                "currency": "EUR"
+            }
+        ]
+    },
+    {
+        "country": "Miami",
+        "url": "https://esim.holafly.com/esim-united-states-miami/",
+        "packages": []
+    },
+    {
         "country": "Moldova",
         "url": "https://esim.holafly.com/esim-moldova/",
         "packages": [
@@ -3903,6 +3718,48 @@
                 "data_volume": "10 GB",
                 "duration": "20 Days",
                 "price": "79,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "15 GB",
+                "duration": "30 Days",
+                "price": "89,00",
+                "currency": "EUR"
+            }
+        ]
+    },
+    {
+        "country": "Monaco",
+        "url": "https://esim.holafly.com/esim-monaco/",
+        "packages": [
+            {
+                "data_volume": "2.5 GB",
+                "duration": "5 Days",
+                "price": "39,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "3.5 GB",
+                "duration": "7 Days",
+                "price": "47,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "5 GB",
+                "duration": "10 Days",
+                "price": "54,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "7.5 GB",
+                "duration": "15 Days",
+                "price": "57,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "10 GB",
+                "duration": "20 Days",
+                "price": "69,00",
                 "currency": "EUR"
             },
             {
@@ -4076,11 +3933,6 @@
         ]
     },
     {
-        "country": "Myanmar",
-        "url": "https://esim.holafly.com/esim-myanmar/",
-        "packages": []
-    },
-    {
         "country": "Nepal",
         "url": "https://esim.holafly.com/esim-nepal/",
         "packages": [
@@ -4121,6 +3973,11 @@
                 "currency": "EUR"
             }
         ]
+    },
+    {
+        "country": "New York",
+        "url": "https://esim.holafly.com/esim-united-states-new-york/",
+        "packages": []
     },
     {
         "country": "New Zealand",
@@ -4177,104 +4034,8 @@
         ]
     },
     {
-        "country": "Norway",
-        "url": "https://esim.holafly.com/esim-norway/",
-        "packages": [
-            {
-                "data_volume": "Unlimited data",
-                "duration": "5 Days",
-                "price": "27,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "7 Days",
-                "price": "37,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "10 Days",
-                "price": "44,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "15 Days",
-                "price": "54,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "20 Days",
-                "price": "67,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "30 Days",
-                "price": "77,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "60 Days",
-                "price": "99,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "90 Days",
-                "price": "110,00",
-                "currency": "EUR"
-            }
-        ]
-    },
-    {
         "country": "Nicaragua",
         "url": "https://esim.holafly.com/esim-nicaragua/",
-        "packages": [
-            {
-                "data_volume": "Unlimited data",
-                "duration": "5 Days",
-                "price": "37,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "7 Days",
-                "price": "44,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "10 Days",
-                "price": "47,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "15 Days",
-                "price": "57,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "20 Days",
-                "price": "67,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data",
-                "duration": "30 Days",
-                "price": "89,00",
-                "currency": "EUR"
-            }
-        ]
-    },
-    {
-        "country": "Oman",
-        "url": "https://esim.holafly.com/esim-oman/",
         "packages": [
             {
                 "data_volume": "Unlimited data",
@@ -4346,6 +4107,107 @@
                 "data_volume": "Unlimited data",
                 "duration": "20 Days",
                 "price": "69,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "30 Days",
+                "price": "89,00",
+                "currency": "EUR"
+            }
+        ]
+    },
+    {
+        "country": "North America",
+        "url": "https://esim.holafly.com/esim-northamerica/",
+        "packages": []
+    },
+    {
+        "country": "Norway",
+        "url": "https://esim.holafly.com/esim-norway/",
+        "packages": [
+            {
+                "data_volume": "Unlimited data",
+                "duration": "5 Days",
+                "price": "27,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "7 Days",
+                "price": "37,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "10 Days",
+                "price": "44,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "15 Days",
+                "price": "54,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "20 Days",
+                "price": "67,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "30 Days",
+                "price": "77,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "60 Days",
+                "price": "99,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "90 Days",
+                "price": "110,00",
+                "currency": "EUR"
+            }
+        ]
+    },
+    {
+        "country": "Oman",
+        "url": "https://esim.holafly.com/esim-oman/",
+        "packages": [
+            {
+                "data_volume": "Unlimited data",
+                "duration": "5 Days",
+                "price": "37,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "7 Days",
+                "price": "44,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "10 Days",
+                "price": "47,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "15 Days",
+                "price": "57,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "20 Days",
+                "price": "67,00",
                 "currency": "EUR"
             },
             {
@@ -4909,60 +4771,6 @@
         ]
     },
     {
-        "country": "Sweden",
-        "url": "https://esim.holafly.com/esim-sweden/",
-        "packages": [
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "5 Days",
-                "price": "29,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "7 Days",
-                "price": "37,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "10 Days",
-                "price": "44,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "15 Days",
-                "price": "57,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "20 Days",
-                "price": "67,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "30 Days",
-                "price": "79,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "60 Days",
-                "price": "97,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "Unlimited data with calls",
-                "duration": "90 Days",
-                "price": "109,00",
-                "currency": "EUR"
-            }
-        ]
-    },
-    {
         "country": "Russia",
         "url": "https://esim.holafly.com/esim-russia/",
         "packages": [
@@ -5041,6 +4849,11 @@
         ]
     },
     {
+        "country": "San Francisco",
+        "url": "https://esim.holafly.com/esim-united-states-san-francisco/",
+        "packages": []
+    },
+    {
         "country": "Saudi Arabia",
         "url": "https://esim.holafly.com/esim-saudi-arabia/",
         "packages": [
@@ -5072,6 +4885,30 @@
                 "data_volume": "Unlimited data",
                 "duration": "20 Days",
                 "price": "67,00",
+                "currency": "EUR"
+            }
+        ]
+    },
+    {
+        "country": "Senegal",
+        "url": "https://esim.holafly.com/esim-senegal/",
+        "packages": [
+            {
+                "data_volume": "2.5 GB",
+                "duration": "5 Days",
+                "price": "37,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "3.5 GB",
+                "duration": "7 Days",
+                "price": "44,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "5 GB",
+                "duration": "10 Days",
+                "price": "49,00",
                 "currency": "EUR"
             }
         ]
@@ -5156,6 +4993,30 @@
                 "data_volume": "Unlimited data",
                 "duration": "30 Days",
                 "price": "89,00",
+                "currency": "EUR"
+            }
+        ]
+    },
+    {
+        "country": "Sierra Leone",
+        "url": "https://esim.holafly.com/esim-sierra-leone/",
+        "packages": [
+            {
+                "data_volume": "3 GB",
+                "duration": "7 Days",
+                "price": "44,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "7 GB",
+                "duration": "15 Days",
+                "price": "57,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "15 GB",
+                "duration": "30 Days",
+                "price": "69,00",
                 "currency": "EUR"
             }
         ]
@@ -5401,6 +5262,60 @@
         ]
     },
     {
+        "country": "Spain",
+        "url": "https://esim.holafly.com/esim-spain/",
+        "packages": [
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "5 Days",
+                "price": "29,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "7 Days",
+                "price": "37,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "10 Days",
+                "price": "44,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "15 Days",
+                "price": "57,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "20 Days",
+                "price": "67,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "30 Days",
+                "price": "79,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "60 Days",
+                "price": "97,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "90 Days",
+                "price": "109,00",
+                "currency": "EUR"
+            }
+        ]
+    },
+    {
         "country": "Sri Lanka",
         "url": "https://esim.holafly.com/esim-sri-lanka/",
         "packages": [
@@ -5449,43 +5364,49 @@
         ]
     },
     {
-        "country": "Sudan",
-        "url": "https://esim.holafly.com/esim-sudan/",
+        "country": "St. Kitts and Nevis",
+        "url": "https://esim.holafly.com/esim-saint-kitts-and-nevis/",
         "packages": [
             {
-                "data_volume": "2.5 GB",
-                "duration": "5 Days",
-                "price": "39,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "3.5 GB",
+                "data_volume": "3 GB",
                 "duration": "7 Days",
-                "price": "47,00",
+                "price": "44,00",
                 "currency": "EUR"
             },
             {
-                "data_volume": "5 GB",
-                "duration": "10 Days",
-                "price": "54,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "7.5 GB",
+                "data_volume": "7 GB",
                 "duration": "15 Days",
                 "price": "57,00",
                 "currency": "EUR"
             },
             {
-                "data_volume": "10 GB",
-                "duration": "20 Days",
+                "data_volume": "15 GB",
+                "duration": "30 Days",
                 "price": "69,00",
+                "currency": "EUR"
+            }
+        ]
+    },
+    {
+        "country": "St. Lucia",
+        "url": "https://esim.holafly.com/esim-saint-lucia/",
+        "packages": [
+            {
+                "data_volume": "3 GB",
+                "duration": "7 Days",
+                "price": "44,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "7 GB",
+                "duration": "15 Days",
+                "price": "57,00",
                 "currency": "EUR"
             },
             {
                 "data_volume": "15 GB",
                 "duration": "30 Days",
-                "price": "89,00",
+                "price": "69,00",
                 "currency": "EUR"
             }
         ]
@@ -5545,13 +5466,13 @@
         ]
     },
     {
-        "country": "St. Pierre and Miquelon",
-        "url": "https://esim.holafly.com/esim-st-pierre-and-miquelon/",
+        "country": "St. Vincent and the Grenadines",
+        "url": "https://esim.holafly.com/esim-saint-vincent-and-the-grenadines/",
         "packages": []
     },
     {
-        "country": "Eswatini",
-        "url": "https://esim.holafly.com/esim-eswatini/",
+        "country": "Sudan",
+        "url": "https://esim.holafly.com/esim-sudan/",
         "packages": [
             {
                 "data_volume": "2.5 GB",
@@ -5592,8 +5513,989 @@
         ]
     },
     {
-        "country": "Switzerland",
-        "url": "https://esim.holafly.com/esim-switzerland/",
+        "country": "Sweden",
+        "url": "https://esim.holafly.com/esim-sweden/",
+        "packages": [
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "5 Days",
+                "price": "29,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "7 Days",
+                "price": "37,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "10 Days",
+                "price": "44,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "15 Days",
+                "price": "57,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "20 Days",
+                "price": "67,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "30 Days",
+                "price": "79,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "60 Days",
+                "price": "97,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "90 Days",
+                "price": "109,00",
+                "currency": "EUR"
+            }
+        ]
+    },
+    {
+        "country": "Switzerland - 1 day unlimited data",
+        "url": "https://esim.holafly.com/esim-switzerland-1-day/",
+        "packages": []
+    },
+    {
+        "country": "Republic of Congo",
+        "url": "https://esim.holafly.com/esim-republic-of-congo/",
+        "packages": [
+            {
+                "data_volume": "Unlimited data",
+                "duration": "5 Days",
+                "price": "39,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "7 Days",
+                "price": "47,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "10 Days",
+                "price": "54,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "15 Days",
+                "price": "57,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "20 Days",
+                "price": "89,00",
+                "currency": "EUR"
+            }
+        ]
+    },
+    {
+        "country": "Reunion",
+        "url": "https://esim.holafly.com/esim-reunion/",
+        "packages": [
+            {
+                "data_volume": "Unlimited data",
+                "duration": "5 Days",
+                "price": "39,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "7 Days",
+                "price": "47,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "10 Days",
+                "price": "54,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "15 Days",
+                "price": "57,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "20 Days",
+                "price": "69,00",
+                "currency": "EUR"
+            }
+        ]
+    },
+    {
+        "country": "Romania",
+        "url": "https://esim.holafly.com/esim-romania/",
+        "packages": [
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "5 Days",
+                "price": "29,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "7 Days",
+                "price": "37,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "10 Days",
+                "price": "44,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "15 Days",
+                "price": "57,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "20 Days",
+                "price": "67,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "30 Days",
+                "price": "79,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "60 Days",
+                "price": "97,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "90 Days",
+                "price": "109,00",
+                "currency": "EUR"
+            }
+        ]
+    },
+    {
+        "country": "Russia",
+        "url": "https://esim.holafly.com/esim-russia/",
+        "packages": [
+            {
+                "data_volume": "Unlimited data",
+                "duration": "5 Days",
+                "price": "29,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "7 Days",
+                "price": "37,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "10 Days",
+                "price": "44,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "15 Days",
+                "price": "57,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "20 Days",
+                "price": "67,00",
+                "currency": "EUR"
+            }
+        ]
+    },
+    {
+        "country": "Rwanda",
+        "url": "https://esim.holafly.com/esim-rwanda/",
+        "packages": [
+            {
+                "data_volume": "2.5 GB",
+                "duration": "5 Days",
+                "price": "39,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "3.5 GB",
+                "duration": "7 Days",
+                "price": "47,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "5 GB",
+                "duration": "10 Days",
+                "price": "54,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "7.5 GB",
+                "duration": "15 Days",
+                "price": "57,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "10 GB",
+                "duration": "20 Days",
+                "price": "69,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "15 GB",
+                "duration": "30 Days",
+                "price": "89,00",
+                "currency": "EUR"
+            }
+        ]
+    },
+    {
+        "country": "San Francisco",
+        "url": "https://esim.holafly.com/esim-united-states-san-francisco/",
+        "packages": []
+    },
+    {
+        "country": "Saudi Arabia",
+        "url": "https://esim.holafly.com/esim-saudi-arabia/",
+        "packages": [
+            {
+                "data_volume": "Unlimited data",
+                "duration": "5 Days",
+                "price": "29,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "7 Days",
+                "price": "37,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "10 Days",
+                "price": "44,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "15 Days",
+                "price": "57,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "20 Days",
+                "price": "67,00",
+                "currency": "EUR"
+            }
+        ]
+    },
+    {
+        "country": "Senegal",
+        "url": "https://esim.holafly.com/esim-senegal/",
+        "packages": [
+            {
+                "data_volume": "2.5 GB",
+                "duration": "5 Days",
+                "price": "37,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "3.5 GB",
+                "duration": "7 Days",
+                "price": "44,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "5 GB",
+                "duration": "10 Days",
+                "price": "49,00",
+                "currency": "EUR"
+            }
+        ]
+    },
+    {
+        "country": "Serbia",
+        "url": "https://esim.holafly.com/esim-serbia/",
+        "packages": [
+            {
+                "data_volume": "Unlimited data",
+                "duration": "5 Days",
+                "price": "37,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "7 Days",
+                "price": "44,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "10 Days",
+                "price": "47,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "15 Days",
+                "price": "57,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "20 Days",
+                "price": "67,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "30 Days",
+                "price": "89,00",
+                "currency": "EUR"
+            }
+        ]
+    },
+    {
+        "country": "Seychelles",
+        "url": "https://esim.holafly.com/esim-seychelles/",
+        "packages": [
+            {
+                "data_volume": "Unlimited data",
+                "duration": "5 Days",
+                "price": "39,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "7 Days",
+                "price": "47,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "10 Days",
+                "price": "54,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "15 Days",
+                "price": "57,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "20 Days",
+                "price": "69,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "30 Days",
+                "price": "89,00",
+                "currency": "EUR"
+            }
+        ]
+    },
+    {
+        "country": "Sierra Leone",
+        "url": "https://esim.holafly.com/esim-sierra-leone/",
+        "packages": [
+            {
+                "data_volume": "3 GB",
+                "duration": "7 Days",
+                "price": "44,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "7 GB",
+                "duration": "15 Days",
+                "price": "57,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "15 GB",
+                "duration": "30 Days",
+                "price": "69,00",
+                "currency": "EUR"
+            }
+        ]
+    },
+    {
+        "country": "Singapore",
+        "url": "https://esim.holafly.com/esim-singapore/",
+        "packages": [
+            {
+                "data_volume": "Unlimited data",
+                "duration": "5 Days",
+                "price": "27,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "7 Days",
+                "price": "29,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "10 Days",
+                "price": "44,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "15 Days",
+                "price": "54,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "20 Days",
+                "price": "67,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "30 Days",
+                "price": "77,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "60 Days",
+                "price": "99,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "90 Days",
+                "price": "110,00",
+                "currency": "EUR"
+            }
+        ]
+    },
+    {
+        "country": "Slovakia",
+        "url": "https://esim.holafly.com/esim-slovakia/",
+        "packages": [
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "5 Days",
+                "price": "29,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "7 Days",
+                "price": "37,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "10 Days",
+                "price": "44,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "15 Days",
+                "price": "57,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "20 Days",
+                "price": "67,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "30 Days",
+                "price": "79,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "60 Days",
+                "price": "97,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "90 Days",
+                "price": "109,00",
+                "currency": "EUR"
+            }
+        ]
+    },
+    {
+        "country": "Slovenia",
+        "url": "https://esim.holafly.com/esim-slovenia/",
+        "packages": [
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "5 Days",
+                "price": "29,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "7 Days",
+                "price": "37,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "10 Days",
+                "price": "44,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "15 Days",
+                "price": "57,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "20 Days",
+                "price": "67,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "30 Days",
+                "price": "79,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "60 Days",
+                "price": "97,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "90 Days",
+                "price": "109,00",
+                "currency": "EUR"
+            }
+        ]
+    },
+    {
+        "country": "South Africa",
+        "url": "https://esim.holafly.com/esim-south-africa/",
+        "packages": [
+            {
+                "data_volume": "Unlimited data",
+                "duration": "5 Days",
+                "price": "39,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "7 Days",
+                "price": "47,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "10 Days",
+                "price": "54,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "15 Days",
+                "price": "57,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "20 Days",
+                "price": "69,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "30 Days",
+                "price": "89,00",
+                "currency": "EUR"
+            }
+        ]
+    },
+    {
+        "country": "South Korea",
+        "url": "https://esim.holafly.com/esim-south-korea/",
+        "packages": [
+            {
+                "data_volume": "Unlimited data",
+                "duration": "5 Days",
+                "price": "29,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "7 Days",
+                "price": "37,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "10 Days",
+                "price": "44,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "15 Days",
+                "price": "57,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "20 Days",
+                "price": "67,00",
+                "currency": "EUR"
+            }
+        ]
+    },
+    {
+        "country": "Spain",
+        "url": "https://esim.holafly.com/esim-spain/",
+        "packages": [
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "5 Days",
+                "price": "29,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "7 Days",
+                "price": "37,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "10 Days",
+                "price": "44,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "15 Days",
+                "price": "57,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "20 Days",
+                "price": "67,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "30 Days",
+                "price": "79,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "60 Days",
+                "price": "97,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "90 Days",
+                "price": "109,00",
+                "currency": "EUR"
+            }
+        ]
+    },
+    {
+        "country": "Sri Lanka",
+        "url": "https://esim.holafly.com/esim-sri-lanka/",
+        "packages": [
+            {
+                "data_volume": "Unlimited data",
+                "duration": "5 Days",
+                "price": "27,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "7 Days",
+                "price": "37,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "10 Days",
+                "price": "44,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "15 Days",
+                "price": "54,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "20 Days",
+                "price": "67,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "30 Days",
+                "price": "77,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "60 Days",
+                "price": "109,00",
+                "currency": "EUR"
+            }
+        ]
+    },
+    {
+        "country": "St. Kitts and Nevis",
+        "url": "https://esim.holafly.com/esim-saint-kitts-and-nevis/",
+        "packages": [
+            {
+                "data_volume": "3 GB",
+                "duration": "7 Days",
+                "price": "44,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "7 GB",
+                "duration": "15 Days",
+                "price": "57,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "15 GB",
+                "duration": "30 Days",
+                "price": "69,00",
+                "currency": "EUR"
+            }
+        ]
+    },
+    {
+        "country": "St. Lucia",
+        "url": "https://esim.holafly.com/esim-saint-lucia/",
+        "packages": [
+            {
+                "data_volume": "3 GB",
+                "duration": "7 Days",
+                "price": "44,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "7 GB",
+                "duration": "15 Days",
+                "price": "57,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "15 GB",
+                "duration": "30 Days",
+                "price": "69,00",
+                "currency": "EUR"
+            }
+        ]
+    },
+    {
+        "country": "St. Martin",
+        "url": "https://esim.holafly.com/esim-st-martin/",
+        "packages": [
+            {
+                "data_volume": "Unlimited data",
+                "duration": "5 Days",
+                "price": "29,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "7 Days",
+                "price": "37,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "10 Days",
+                "price": "44,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "15 Days",
+                "price": "57,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "20 Days",
+                "price": "67,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "30 Days",
+                "price": "79,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "60 Days",
+                "price": "109,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data",
+                "duration": "90 Days",
+                "price": "139,00",
+                "currency": "EUR"
+            }
+        ]
+    },
+    {
+        "country": "St. Vincent and the Grenadines",
+        "url": "https://esim.holafly.com/esim-saint-vincent-and-the-grenadines/",
+        "packages": []
+    },
+    {
+        "country": "Sudan",
+        "url": "https://esim.holafly.com/esim-sudan/",
+        "packages": [
+            {
+                "data_volume": "2.5 GB",
+                "duration": "5 Days",
+                "price": "39,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "3.5 GB",
+                "duration": "7 Days",
+                "price": "47,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "5 GB",
+                "duration": "10 Days",
+                "price": "54,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "7.5 GB",
+                "duration": "15 Days",
+                "price": "57,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "10 GB",
+                "duration": "20 Days",
+                "price": "69,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "15 GB",
+                "duration": "30 Days",
+                "price": "89,00",
+                "currency": "EUR"
+            }
+        ]
+    },
+    {
+        "country": "Sweden",
+        "url": "https://esim.holafly.com/esim-sweden/",
+        "packages": [
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "5 Days",
+                "price": "29,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "7 Days",
+                "price": "37,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "10 Days",
+                "price": "44,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "15 Days",
+                "price": "57,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "20 Days",
+                "price": "67,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "30 Days",
+                "price": "79,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "60 Days",
+                "price": "97,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "Unlimited data with calls",
+                "duration": "90 Days",
+                "price": "109,00",
+                "currency": "EUR"
+            }
+        ]
+    },
+    {
+        "country": "Switzerland - 1 day unlimited data",
+        "url": "https://esim.holafly.com/esim-switzerland-1-day/",
         "packages": []
     },
     {
@@ -5646,6 +6548,30 @@
                 "data_volume": "Unlimited data",
                 "duration": "90 Days",
                 "price": "110,00",
+                "currency": "EUR"
+            }
+        ]
+    },
+    {
+        "country": "Tajikistan",
+        "url": "https://esim.holafly.com/esim-tajikistan/",
+        "packages": [
+            {
+                "data_volume": "3 GB",
+                "duration": "7 Days",
+                "price": "44,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "7 GB",
+                "duration": "15 Days",
+                "price": "57,00",
+                "currency": "EUR"
+            },
+            {
+                "data_volume": "15 GB",
+                "duration": "30 Days",
+                "price": "69,00",
                 "currency": "EUR"
             }
         ]
@@ -5844,27 +6770,8 @@
     },
     {
         "country": "Trinidad and Tobago",
-        "url": "https://esim.holafly.com/esim-trinidad-and-tobago/",
-        "packages": [
-            {
-                "data_volume": "3 GB",
-                "duration": "7 Days",
-                "price": "44,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "7 GB",
-                "duration": "15 Days",
-                "price": "57,00",
-                "currency": "EUR"
-            },
-            {
-                "data_volume": "15 GB",
-                "duration": "30 Days",
-                "price": "69,00",
-                "currency": "EUR"
-            }
-        ]
+        "url": "https://esim.holafly.com/esim-trinidad-y-tobago/",
+        "packages": []
     },
     {
         "country": "Tunisia",
@@ -5907,6 +6814,11 @@
                 "currency": "EUR"
             }
         ]
+    },
+    {
+        "country": "Turkey - 1 day unlimited data",
+        "url": "https://esim.holafly.com/esim-turkey-1-day/",
+        "packages": []
     },
     {
         "country": "Turks and Caicos",
@@ -6024,7 +6936,7 @@
     },
     {
         "country": "United Arab Emirates",
-        "url": "https://esim.holafly.com/esim-arab-emirates/",
+        "url": "https://esim.holafly.com/esim-united-arab-emirates/",
         "packages": [
             {
                 "data_volume": "Unlimited data",
@@ -6057,6 +6969,11 @@
                 "currency": "EUR"
             }
         ]
+    },
+    {
+        "country": "United Kingdom - 1 day unlimited data",
+        "url": "https://esim.holafly.com/esim-united-kingdom-1-day/",
+        "packages": []
     },
     {
         "country": "Uruguay",
@@ -6099,6 +7016,11 @@
                 "currency": "EUR"
             }
         ]
+    },
+    {
+        "country": "USA",
+        "url": "https://esim.holafly.com/esim-united-states/",
+        "packages": []
     },
     {
         "country": "Uzbekistan",
